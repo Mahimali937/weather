@@ -33,9 +33,10 @@ Fetching Data: The checkWeather function fetches weather data from the API based
 Weather Icons: Depending on the weather conditions, different icons are shown (e.g., clouds, clear sky, rain).
 CSS
 The CSS file (style.css) is used for styling the application. Ensure you include appropriate styles to make the application visually appealing.
+
 Troubleshooting
 Error Handling: If an invalid city name is entered, an error message is displayed.
 Empty Search: Ensure that the search box is not empty before clicking the search button.
-License
 
+License
 This project is licensed under the MIT License. See the LICENSE file for more details.
